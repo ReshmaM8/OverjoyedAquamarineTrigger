@@ -1,5 +1,5 @@
 import PySimpleGUI as sg      
-
+# TODO: create skelton code
 layout = [[sg.Text('My one-shot window.')],      
                  [sg.InputText()],      
                  [sg.Submit(), sg.Cancel()]]      
